@@ -1,4 +1,4 @@
-# 00Fausto00_Collection
+# Neural
 Proyecto: Neural   Autor: 00Fausto00   Metodología: Código puro asistido por IA (Optimizado para SVG)
 00Fausto00_Collection Este proyecto es una exploración de geometría procedimental y renderizado gráfico utilizando código puro en [SVG/HTML]. Mi enfoque principal es la creación de interfaces y estructuras visuales mediante algoritmos matemáticos directos, evitando el uso de librerías externas, CDNs o dependencias de terceros para garantizar la máxima nitidez y rendimiento.
 
